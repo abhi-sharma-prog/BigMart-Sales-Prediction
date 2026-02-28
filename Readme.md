@@ -1,5 +1,12 @@
 # 📊 BigMart Sales Analysis & Prediction Project
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+![Made With](https://img.shields.io/badge/Made%20With-Jupyter-orange?logo=jupyter)
 ## 📌 Project Overview
 
 This project focuses on analyzing BigMart sales data to identify key factors influencing product sales and to build a predictive machine learning model for sales forecasting.
@@ -126,6 +133,8 @@ Created an interactive dashboard including:
 - Filters for better analysis
 
 ---
+## 📊 Dashboard Preview
+![Dashboard Preview](images/power_bi.png)
 
 ## 📌 Key Insights
 

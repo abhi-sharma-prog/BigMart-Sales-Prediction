@@ -1,0 +1,10 @@
+import pickle
+
+# Save trained model
+pickle.dump(model, open("models/final_model.pkl", "wb"))
+
+# Save scaler
+pickle.dump(sc, open("models/scaler.pkl", "wb"))
+
+# Save label encoder
+pickle.dump(le, open("models/label_encoder.pkl", "wb"))

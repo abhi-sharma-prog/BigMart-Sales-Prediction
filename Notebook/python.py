@@ -1,9 +1,7 @@
 import streamlit as st
 import pandas as pd
 import pickle
-
-# Load model
-model = pickle.load(open("models/final_model.pkl", "rb"))
+import joblib
 
 st.title("🛒 BigMart Sales Prediction App")
 
